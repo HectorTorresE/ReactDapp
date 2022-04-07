@@ -1,3 +1,3 @@
 # ReactDapp
 
-this is a web3 Dapp made with react and solidity
+this is a web3 NFT Dapp made with react and solidity
